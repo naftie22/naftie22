@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naftie22
 - 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning ...python 
+- 🌱 My main areas areas of focus are C# and python 
 - 💞️ I’m looking to collaborate on ...open source projects and any other worthwhile projects 
 - 📫 How to reach me ...nafti.yiga@gmail.com
 
